@@ -1,0 +1,25 @@
+{
+  "name": "copy-fill-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Copy file to file with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shisuiyou/copy-fill-webpack-plugin.git"
+  },
+  "author": "shisuiyou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shisuiyou/copy-fill-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/shisuiyou/copy-fill-webpack-plugin#readme",
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  }
+}
